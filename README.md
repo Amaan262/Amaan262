@@ -15,7 +15,8 @@
 <br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
- 
+
+✔ Skilled with **C++**<br>
 ✔ A non CS/IT (by degree) guy doing **IT things...**<br>
 ✔ I’m currently learning **MERN Stack**<br>
 
