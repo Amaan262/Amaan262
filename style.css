@@ -6,6 +6,9 @@
 body {
     font-family: "Open Sans", sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 
 /* Utility class */
@@ -167,9 +170,8 @@ h1{
 }
 
 .about-details h1{
-  margin: 80px;
+  margin-top: 40px;
   font-family: 'Roboto', sans-serif;
-  margin-bottom: 0px;
   font-size: 32px;
   line-height: 1.9;
   letter-spacing: 1;
@@ -177,6 +179,23 @@ h1{
 .about-details .para{
   margin: 20px 40px;
   
+}
+#barsGif{
+  width: 40px;
+  margin-left: 30px;
+}
+#skillsPara{
+  text-align: left;
+  margin:auto;
+  max-width: 90%;
+
+}
+.about-details h1{
+  text-align: center;
+}
+.about-details h3,p{
+  margin: 20px 0;
+  text-align: center;
 }
 .about-details p{
   font-family: 'Roboto', sans-serif;
@@ -348,8 +367,9 @@ padding-top: 25px;
   height: 200px;
 }
 .desc .status{
+  text-align: left;
   color: #6366f1;
-  margin: 5px 14px;
+  margin: 10px 14px;
   font-size: 20px;
 }
 .desc .name{
@@ -361,7 +381,9 @@ padding-top: 25px;
 }
 .about-item{
   margin: 10px 10px;
-  margin-right: 15px;
+  margin: 0  auto;
+  max-width: 90%;
+  text-align: left;
   opacity: 0.6;
   font-family: Arial, Helvetica, sans-serif;    
 
@@ -370,6 +392,7 @@ padding-top: 25px;
 .tech-used{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   align-items: center;
   margin:10px 0;
 }
@@ -495,3 +518,8 @@ footer img{
   width: 20px;
   margin: 1px 4px;
 }
+
+#hiGif{
+  width: 30px;
+}
+
