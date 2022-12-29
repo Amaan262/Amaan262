@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amaan Ahmad </h1>
 <h3 align="center">Web Developer | Problem solver</h3>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 <p align="center">
