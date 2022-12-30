@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/86087816/209966097-a337fab0-d4f7-4473-9dd7-194a631f2ea1.gif" width="30px"/>, I'm Amaan Ahmad </h1>
+<h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/86087816/209966097-a337fab0-d4f7-4473-9dd7-194a631f2ea1.gif" width="30px"/>, I'm Amaan Ahmad </h1>
 <!-- <h3 align="center">Web Developer | Problem solver</h3> -->
 
 
@@ -7,14 +7,14 @@
 
 <p align="center">
   <em>
-    Hello, I'm Amaan Ahmad a <b>3rd year</b> Engineering Student in College of Technology, Pantnagar. <br>
-    <b>A passionate self-learner</b> 🧑‍💻 and a <b>Web Developer</b>&nbsp;&nbsp
+    I'm Amaan Ahmad a <b>3rd year</b> Engineering Student in College of Technology, Pantnagar. <br>
+    <b>A passionate self-learner</b> 🧑‍💻 and a <b>Web Developer</b>&nbsp;&nbsp;
   </em> 
  <br>
 </p> 
 <br>
 
-- ✉️ How to reach me : Mail - Amaansaifi262@gmail.com
+- ✉️ How to reach me : Mail - Amaanahmad1601@gmail.com
 
 - ⚡ Fun fact : Beside's coding and developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
 
