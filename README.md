@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me 
 
 ✔ Skilled with **C++**<br>
 ✔ A non CS/IT (by degree) guy doing **IT things...**<br>
