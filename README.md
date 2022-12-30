@@ -35,7 +35,8 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <!-- <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>-->
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>![2](https://user-images.githubusercontent.com/86087816/210038603-f5d684b9-88d8-4e59-b8a8-be55e9bd6e44.png)
+
 <!-- <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
@@ -128,7 +129,10 @@
 
 
 <!-- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/86087816/209966097-a337fab0-d4f7-4473-9dd7-194a631f2ea1.gif) -->
+## Preview
 
+![1](https://user-images.githubusercontent.com/86087816/210036860-533c8814-a2c7-4b11-add0-fed6f357fe22.png)
 
+![2](https://user-images.githubusercontent.com/86087816/210038622-1f23fd49-8646-4940-af86-8732127c0948.png)
 
 
