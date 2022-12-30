@@ -8,10 +8,10 @@
 
 - 👩‍💻 I am a Frontend Developer.
 - 💻 I like to code and implement ideas to applications. Currently learning more about DSA and finance.
+- ⚡ Always learning new things.
+- ⚡ Skilled with **C++** **Javascript**
 - ⚡ Fun fact : Beside's coding and developing stuff, I enjoy listening music and traveling 🚘🏝️.
-- Always learning new things.
-- Skilled with **C++** **Javascript**
-- A non CS/IT (by degree) guy doing **IT things...**
+- ⚡ A non CS/IT (by degree) guy doing **IT things...**
 - ✉️ How to reach me : Mail - Amaanahmad1601@gmail.com
 <br><br>
 
