@@ -3,22 +3,17 @@
 
 
 <br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me 
+
 - 👩‍💻 I am a Frontend Developer.
 - 💻 I like to code and implement ideas to applications. Currently learning more about DSA and finance.
 - ⚡ Fun fact : Beside's coding and developing stuff, I enjoy listening music and traveling 🚘🏝️.
 - Always learning new things.
 - ✉️ How to reach me : Mail - Amaanahmad1601@gmail.com
-
-
+- Skilled with **C++** **Javascript**
+- A non CS/IT (by degree) guy doing **IT things...**
 <br><br>
-
-
-
-✔ Skilled with **C++**<br>
-✔ A non CS/IT (by degree) guy doing **IT things...**<br>
-✔ I’m currently learning **MERN Stack**<br>
-
 
 ![](https://komarev.com/ghpvc/?username=amaan262)
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
