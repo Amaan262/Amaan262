@@ -10,7 +10,7 @@
 - 💻 I like to code and implement ideas to applications. Currently learning more about DSA and finance.
 - ⚡ Always learning new things.
 - ⚡ Skilled with **C++** **Javascript**
-- ⚡ Fun fact : Beside's coding and developing stuff, I enjoy listening music and traveling 🚘🏝️.
+- ⚡ Beside's coding and developing stuff, I enjoy listening music and traveling 🚘🏝️.
 - ⚡ A non CS/IT (by degree) guy doing **IT things...**
 - ✉️ How to reach me : Mail - Amaanahmad1601@gmail.com
 <br><br>
